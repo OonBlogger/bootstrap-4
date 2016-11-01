@@ -1,1 +1,3 @@
-mkdir ~/Hello-World  #Membuat direktori "Hello-World"
+mkdir lms
+cd lms
+git init
