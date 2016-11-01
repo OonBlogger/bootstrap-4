@@ -1,1 +1,1 @@
-git init    # bootstrap-4
+mkdir ~/Hello-World  #Membuat direktori "Hello-World"
